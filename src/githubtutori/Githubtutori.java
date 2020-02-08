@@ -16,10 +16,7 @@ public class Githubtutori {
      */
     public static void main(String[] args) {
         
-        int m ,b,n;
-        m=5;
-        b=11 ;
-        n= m+b ;
+       
         // TODO code application logic here
     }
     
